@@ -47,3 +47,9 @@ Step 2: Exploratory Data Analysis
 -  Multivariate Analysis
 
 Step 3: Recommendations
+
+## Python Packages Used
+- [Numpy](https://numpy.org/)
+- [Pandas](https://pandas.pydata.org/)
+- [matplotlib](https://matplotlib.org/)
+- [Seaborn](https://seaborn.pydata.org/)
